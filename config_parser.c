@@ -1100,7 +1100,7 @@ void apply_pool_profile(struct pool *pool)
         pool->intensity = default_profile.intensity;
       }
       else {
-        //nothing anywhere? default to sgminer-dyn default of 256
+        //nothing anywhere? default to sgminer-0dync default of 256
         int_type = 1;
         pool->xintensity = strdup("256");
       }

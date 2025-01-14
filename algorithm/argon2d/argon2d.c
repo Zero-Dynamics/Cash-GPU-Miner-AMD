@@ -6,7 +6,7 @@ static const size_t INPUT_BYTES = 80;
 static const size_t OUTPUT_BYTES = 32;
 static const unsigned int DEFAULT_ARGON2_FLAG = 2;
 
-void argon2d_dyn_hash( void *output, const void *input )
+void argon2d_0dync_hash( void *output, const void *input )
 {
     argon2_context context;
     context.out = (uint8_t *)output;
@@ -40,5 +40,5 @@ void argon2d_regenhash(struct work *work)
 
     be32enc_vect(data, (const uint32_t *)work->data, 19);
     data[19] = htobe32(*nonce);
-	argon2d_dyn_hash(ohash, data);
+	argon2d_0dync_hash(ohash, data);
 }

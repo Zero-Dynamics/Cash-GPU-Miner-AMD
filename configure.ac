@@ -1,4 +1,4 @@
-AC_INIT([sgminer-dyn], [1.0.0], [], [sgminer-dyn], [https://github.com/duality-solutions/Dynamic-GPU-Miner-AMD])
+AC_INIT([sgminer-0dync], [1.0.0], [], [sgminer-0dync], [https://github.com/Zero-Dynamics/Cash-GPU-Miner-AMD])
 
 AC_PREREQ(2.59)
 AC_CANONICAL_SYSTEM

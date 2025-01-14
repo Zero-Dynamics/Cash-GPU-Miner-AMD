@@ -1,4 +1,4 @@
-# sgminer-dyn - Dynamic (DYN) AMD GPU miner 
+# sgminer-0dync - Cash AMD GPU miner 
 
 ## Introduction
 
@@ -7,9 +7,9 @@ overclocking and fanspeed support, based on cpuminer by Jeff Garzik (jgarzik).
 
 This fork is only meant to be used to mine Dynamic (DYN) with Argon2d algorithm.
 
-**releases**: https://github.com/duality-solutions/Dynamic-GPU-Miner-AMD/releases
+**releases**: https://github.com/Zero-Dynamics/Cash-GPU-Miner-AMD/releases
 
-**git tree**: https://github.com/duality-solutions/Dynamic-GPU-Miner-AMD
+**git tree**: https://github.com/Zero-Dynamics/Cash-GPU-Miner-AMD
 
 ## Donation addresses
 

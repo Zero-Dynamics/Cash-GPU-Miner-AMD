@@ -68,11 +68,11 @@
 #endif
 
 #define VERSION "1.0.0"
-#define PACKAGE_NAME "sgminer-dyn"
-#define PACKAGE_TARNAME "sgminer-dyn"
+#define PACKAGE_NAME "sgminer-0dync"
+#define PACKAGE_TARNAME "sgminer-0dync"
 #define PACKAGE_VERSION "1.0.0"
-#define PACKAGE_STRING "sgminer-dyn 1.0.0"
-#define PACKAGE "sgminer-dyn"
+#define PACKAGE_STRING "sgminer-0dync 1.0.0"
+#define PACKAGE "sgminer-0dync"
 
 #define SGMINER_PREFIX ""
 
